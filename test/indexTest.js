@@ -1,6 +1,7 @@
 const sumar = require('../index');
 const assert = require('assert');
 
+
 //old -> caja negra y caja blanca
 // Actualidad -> pruebas unitarias
 //            -> pruebas funcionales (E2E)
